@@ -414,7 +414,7 @@ void printHeader()
         printf("=");
     printf("\n");
     printf("||");
-    centerPadStringPrint(72, "CSE 23 Calculator");
+    centerPadStringPrint(72, "UPC-01 Calculator");
     printf("||\tBy Hamza Hossain\n");
     for (i = 0; i < 75; i++)
         printf("=");
